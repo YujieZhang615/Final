@@ -1,7 +1,10 @@
 # Final
 🧊 AI4EO: Sea Ice Classification and Roughness Prediction Using Remote Sensing and Machine Learning
+
 📍 University College London – GEOL0069 Artificial Intelligence for Earth Observation
+
 📌 Overview
+
 This project applies artificial intelligence techniques to study sea ice surface roughness and classification using:
 
 Sentinel-1 C-band SAR data (VV, HH, HV)
