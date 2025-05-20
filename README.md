@@ -71,6 +71,28 @@ Training Time	< 1 min per model
 Energy Consumption	~0.002 kWh
 CO₂ Emissions	~0.001 kg CO₂eq
 
+The environmental impact of this research project is minimal, as it relies primarily on digital data processing and analysis using existing datasets (e.g., satellite imagery and DEMs). No physical fieldwork, sample collection, or use of chemical materials is involved, thereby eliminating direct environmental disturbances.
+
+The main environmental cost stems from the computational energy consumption associated with model training, data simulation, and evaluation. This includes:
+
+Running machine learning models (e.g., CNNs, Random Forests)
+
+Using cloud computing resources (e.g., Google Colab, local GPUs)
+
+Storage and transfer of large geospatial datasets
+
+To minimize this footprint, the project employs the following sustainability practices:
+
+Efficient code execution and model optimization to reduce runtime and energy use
+
+Use of lightweight models (e.g., shallow CNNs, downsampled inputs) wherever possible
+
+Training with a limited number of epochs and small batch sizes
+
+Leveraging cloud platforms with carbon-neutral commitments (e.g., Google Cloud)
+
+Overall, the project is designed to be low-impact, with its computational requirements carefully managed to reduce unnecessary emissions. Moreover, the research itself contributes positively to environmental monitoring (e.g., sea ice classification, roughness estimation), supporting sustainable decision-making in polar and climate-sensitive regions.
+
 This project has a low environmental impact, with all training performed on small datasets and light models.
 
 
