@@ -93,8 +93,6 @@ Leveraging cloud platforms with carbon-neutral commitments (e.g., Google Cloud)
 
 Overall, the project is designed to be low-impact, with its computational requirements carefully managed to reduce unnecessary emissions. Moreover, the research itself contributes positively to environmental monitoring (e.g., sea ice classification, roughness estimation), supporting sustainable decision-making in polar and climate-sensitive regions.
 
-This project has a low environmental impact, with all training performed on small datasets and light models.
-
 
 📚 References
 Segal et al. (2020). Sea Ice Roughness and SAR
@@ -106,6 +104,6 @@ ESA Sentinel-1 documentation
 GEOL0069 UCL AI4EO module notes
 
 
-[![Open In Colab]
+Python code：
 https://colab.research.google.com/drive/1OMXPyxuHVpiL_-01YQz8FoV015lhdjKp#scrollTo=L9n8ccIcJLjj
 
