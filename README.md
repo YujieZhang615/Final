@@ -82,8 +82,6 @@ Link to video: [to be uploaded by you]
 
 📁 Project Structure
 bash
-复制
-编辑
 AI4EO_SeaIce/
 ├── data/                    # Sentinel-1 & DEM inputs
 ├── figures/                 # Generated plots and maps
