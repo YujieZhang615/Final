@@ -68,6 +68,8 @@ Models can be run fully on CPU in Jupyter or Google Colab.
 A figure illustrating the remote sensing technique and/or a figure illustrating the AI algorithm and its implementation
 
 ![ChatGPT Image 2025年5月21日 15_07_37](https://github.com/user-attachments/assets/0f3ebaee-c4c6-4af1-8bdf-6a2c2359335b)
+![ChatGPT Image 2025年5月21日 15_09_09](https://github.com/user-attachments/assets/054e04c1-80bf-4723-8cb9-f86bead822c9)
+
 
 
 🌍 Environmental Cost
