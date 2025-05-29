@@ -116,3 +116,5 @@ GEOL0069 UCL AI4EO module notes
 Python code：
 https://colab.research.google.com/drive/1OMXPyxuHVpiL_-01YQz8FoV015lhdjKp#scrollTo=L9n8ccIcJLjj
 
+Vedio link: https://youtu.be/gbKllYvHn7I
+
